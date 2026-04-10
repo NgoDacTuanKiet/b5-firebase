@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "671589385785",
+    "firebase_url": "https://ticket-c3d86-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ticket-c3d86",
+    "storage_bucket": "ticket-c3d86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671589385785:android:bb94e99aeaeab114cb6fe8",
+        "android_client_info": {
+          "package_name": "com.hotel.b5_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKrPbdJNR-P5EIDbtCI_gz20B_AijXQaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

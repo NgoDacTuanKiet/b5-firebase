@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">b5-firebase</string>
+    <string name="navigation_drawer_open">Mở trình đơn điều hướng</string>
+    <string name="navigation_drawer_close">Đóng trình đơn điều hướng</string>
+</resources>
